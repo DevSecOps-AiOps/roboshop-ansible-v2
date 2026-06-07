@@ -4,3 +4,11 @@
   become: yes 
   roles: 
   - mongodb
+  - mysql
+  - rabbitmq
+  - redis
+  - frontend
+  - payment
+  - shipping
+  - catalogue
+  - user
