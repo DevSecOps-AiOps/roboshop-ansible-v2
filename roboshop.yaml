@@ -7,8 +7,3 @@
   - mysql
   - rabbitmq
   - redis
-  - frontend
-  - payment
-  - shipping
-  - catalogue
-  - user
