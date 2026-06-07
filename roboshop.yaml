@@ -3,7 +3,4 @@
   hosts: "{{ component }}"
   become: yes 
   roles: 
-  - mongodb
-  - mysql
-  - rabbitmq
-  - redis
+  - "{{ component }}
