@@ -1,0 +1,12 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb.chinnu.store
+REDIS_HOST: redis.chinnu.store
+CATALOGUE_HOST: catalogue.chinnu.store
+SHIPPING_HOST: shipping.chinnu.store
+MYSQL_HOST: mysql.chinnu.store
+CART_HOST: cart.chinnu.store
+RABBITMQ_HOST: rabbitmq.chinnu.store
+USER_HOST: user.chinnu.store
+PAYMENT_HOST: payment.chinnu.store
+FRONTEND_HOST: chinnu.store
